@@ -1,0 +1,1 @@
+"{\"class_name\": \"FaceNet\", \"config\": {\"margin\": 0.5, \"embed_dim\": 256}, \"keras_version\": \"2.3.0-tf\", \"backend\": \"tensorflow\"}"
