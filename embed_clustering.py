@@ -40,4 +40,4 @@ plt.ylabel("features")
 plt.title("Visualization of the data")
 plt.show()
 
-print("changes")
+print("mo")
